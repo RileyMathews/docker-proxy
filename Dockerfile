@@ -1,2 +1,2 @@
-FROM amazonlinux:2
+FROM centos:8
 CMD [ "echo", "hello" ]

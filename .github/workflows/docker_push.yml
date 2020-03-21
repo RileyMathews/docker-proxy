@@ -5,7 +5,7 @@ on:
     types: [published]
 
 env:
-  IMAGE_NAME: placeholder-image
+  IMAGE_NAME: docker-proxy
 
 jobs:
   push:
